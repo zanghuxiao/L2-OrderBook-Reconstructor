@@ -1,0 +1,9 @@
+# 忽略数据文件
+sample_data/
+clean_data/
+test/fixtures/*.parquet
+
+# 忽略缓存和系统文件
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
