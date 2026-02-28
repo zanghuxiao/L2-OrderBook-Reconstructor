@@ -1,0 +1,13 @@
+# 核心数据处理
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Parquet 文件支持
+pyarrow>=12.0.0
+
+# 可视化绘图
+matplotlib>=3.7.0
+
+# Jupyter 运行环境
+jupyter>=1.0.0
+ipykernel
